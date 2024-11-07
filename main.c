@@ -108,6 +108,14 @@ void printRoute(RouteInfo *info, int fire_location)
     printf("\ncalculated time for route = %d min.\n", info->times[fire_location]);
 }
 
+/*
+
+Enzo Ribeiro                 - 10418262 
+Gabriel Ken Kazama Geronazzo - 10418247 
+Lucas Zanini da Silva        - 10417361
+
+Source code: https://github.com/ImGabreuw/dijkstra-algorithm
+*/
 int main(void)
 {
     FILE *file = fopen("bombeiro.txt", "r");
