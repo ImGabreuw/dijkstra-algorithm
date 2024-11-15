@@ -115,6 +115,7 @@ Gabriel Ken Kazama Geronazzo - 10418247
 Lucas Zanini da Silva        - 10417361
 
 Source code: https://github.com/ImGabreuw/dijkstra-algorithm
+Video presentation: https://youtu.be/nC8H4AFpnto
 */
 int main(void)
 {
